@@ -13,9 +13,9 @@ h2{
     color: rgba(255, 119, 119, 0.788);
 }
 img{
-    display: inline;
+    display: flex;
     margin: auto;
     width: 700px;
     border-style: groove;
     padding: 1px;
-    border-radius: 10px }
+    border-radius: 9px }
