@@ -13,7 +13,7 @@ h2{
     color: rgba(255, 119, 119, 0.788);
 }
 img{
-    display: block;
+    display: inline;
     margin: auto;
     width: 700px;
     border-style: groove;
