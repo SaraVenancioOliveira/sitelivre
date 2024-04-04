@@ -16,6 +16,6 @@ img{
     display: block;
     margin: auto;
     width: 700px;
-    border: solid 5px ;
-    padding: 2px;
+    border-style: groove;
+    padding: 1px;
     border-radius: 10px }
