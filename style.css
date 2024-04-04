@@ -12,3 +12,10 @@ h1{
 h2{
     color: rgba(255, 119, 119, 0.788);
 }
+img{
+    display: block;
+    margin: auto;
+    width: 500px;
+    border: solid 5px ;
+    padding: 5px;
+    border-radius: 10px }
